@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello there, this is General Obi-Wan Kenobi of the Grand Army of the Republic.
+
+2
+00:00:05,000 --> 00:00:08,000
+I have here with me my Padawan Anakin Skywalker.
+
+3
+00:00:08,000 --> 00:00:28,000
+He's an idiot, don't talk to him. Okay, bye.
+
